@@ -23,7 +23,7 @@ Open `index.html` in a browser (internet needed for three.js and fonts from CDNs
    `git init && git add . && git commit -m "Chiron W16 simulation" && git branch -M main`
    `git remote add origin https://github.com/<you>/<repo>.git && git push -u origin main`
 2. In the repository, open Settings, then Pages. Under Build and deployment choose Deploy from a branch, select `main` and `/ (root)`, and save.
-3. After a minute your site is live at (https://rishipatel07-bit.github.io/chiron-w16/).
+3. After a minute your site is live at https://rishipatel07-bit.github.io/chiron-w16-simulator/.
 
 ## Docs
 See [docs/ENGINEERING.md](docs/ENGINEERING.md) for the engineering model and its limits.
