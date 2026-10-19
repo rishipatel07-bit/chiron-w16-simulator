@@ -4,7 +4,7 @@ A browser-based 3D simulation of the Bugatti Chiron's 8.0 L quad-turbo W16 engin
 
 ## Live Demo
 
-[Open the interactive engine simulation](https://rishipatel07-bit.github.io/chiron-w16/)
+[Open the interactive engine simulation](https://rishipatel07-bit.github.io/chiron-w16-simulator/)
 
 ## Features
 - A W16 with brushed-metal finish, black head covers, big silver intake pipes, a tight four-turbo cluster and a ribbed seven-speed gearbox, pulled apart in a workshop with a purple car body in the background
